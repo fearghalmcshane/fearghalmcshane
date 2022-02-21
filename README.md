@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fearghalmcshane
+- 👀 I’m interested in all technology
+- 🌱 I’m currently learning C# .Net 6 on Blazor
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me @fearghalmc
